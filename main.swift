@@ -7,8 +7,12 @@ print("How to use playgrounds to make writing Swift fun and simple")
 
 // Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the print function to display the song title and artist.
 
-
+print ("Buenos Dias/Tardes/Noches");
+print ("Hope you're having a great day!");
+print ("My favorite song is KK Crusin' by KK Slider.");
 
 // Use multiple print functions to write out some of the lyrics to the song.
-
+print("There isn't really lyrics to the song so I'll just use onomatopoeias.");
+print("Bee bop boop wip wee scoop bow boo");
+print("ge bippity boppity boo boi vew doo")
 
